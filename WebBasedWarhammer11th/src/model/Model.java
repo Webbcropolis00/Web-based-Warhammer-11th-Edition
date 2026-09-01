@@ -11,4 +11,5 @@ public class Model {
 	double x;
 	double y;
 	
+	
 }
