@@ -2,6 +2,11 @@ package model;
 
 public class Unit {
 	Model[] unit;
+	
+	public Unit() {
+		unit = new Model[0];
+	}
+	
 	public Unit(int size) {
 		unit = new Model[size];
 	}
