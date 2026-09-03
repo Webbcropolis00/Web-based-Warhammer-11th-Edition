@@ -1,0 +1,31 @@
+{
+    "unit": "Intercessor Squad",
+    "models": [
+        {
+          "name": "Intercessor Sergeant",
+          "m": 6,
+          "t": 4,
+          "sv": 3,
+          "insv": 0,
+          "wounds": 2,
+          "leadership": 6,
+          "objectiveControl": 2,
+          "baseLength": 32,
+          "baseWidth": 32,
+          "weapons": ["Bolt Rifle", "Bolt Pistol", "Close Combat Weapon"]
+        },
+        {
+          "name": "Intercessor Marine",
+          "move": 6,
+          "toughness": 4,
+          "save": 3,
+          "invulnSave": 0,
+          "wounds": 2,
+          "leadership": 6,
+          "objectiveControl": 2,
+          "baseLength": 32,
+          "baseWidth": 32,
+          "weapons": ["Bolt Rifle", "Bolt Pistol", "Close Combat Weapon"]
+        }
+    ]
+}

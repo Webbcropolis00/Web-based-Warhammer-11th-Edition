@@ -26,6 +26,6 @@ public class Model {
 	}
 	
 	public void Model(String army, String unit) {
-		
+		S
 	}
 }
